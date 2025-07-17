@@ -1,3 +1,5 @@
+<img src="/portfolio/assets/agahlot7.jpg" width="200" align="right" />
+
 # Aishwerya Gahlot  
 *Aerospace Engineer | PhD in Rotorcraft Aerodynamics*
 
