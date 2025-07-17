@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/aishwerya/portfolio/main/assets/agahlot7.jpg" width="200" align="right" />
+<img src="https://raw.githubusercontent.com/aishwerya/portfolio/main/assets/agahlot7.jpg" width="200" align="left" />
 
 # Aishwerya Gahlot  
 *Aerospace Engineer | PhD in Rotorcraft Aerodynamics*
