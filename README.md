@@ -1,8 +1,9 @@
 # Aerodynamicist
 
 ### Education
-Aerospace Engineering, PhD
-Georgia Institute of Technology
+PhD Aerospace Engineering | Georgia Institute of Technology (July 2025)
+MSc Aerospace Engineering | Georgia Institute of Technology (May 2024)
+BS Aerospace Engineering  | University of Petroleum and Energy Studies (May 2020)
 
 ### Work Experience
 GT-AE Computational Fluid Dynamics Lab
