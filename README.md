@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/aishwerya/portfolio/main/assets/agahlot7.jpg" width="200" align="left" />
+<img src="https://raw.githubusercontent.com/aishwerya/portfolio/main/assets/agahlot7.jpg" width="200" align="farleft" />
 
 # Aishwerya Gahlot  
 *Aerospace Engineer | PhD in Rotorcraft Aerodynamics*
@@ -25,5 +25,5 @@ Coming soon...
 Coming soon...
 
 ## 📬 Contact  
-Email: your-email@example.com  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Google Scholar](#)  
+Email: aishwerya1@gmail.com 
+[LinkedIn](https://linkedin.com/in/aishweryagahlot) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=NtoGaNAAAAAJ)
